@@ -99,6 +99,8 @@ Custom Navigation (Home & Overview)
 Responsive KPI Cards
 Clean Business Dashboard Design
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
+
+![Uber Trip Analytics Dashboard](Uber%20Trip%20Analytics%20Dashboard.png)
 
 (https://github.com/Kar1ik999/Uber-Dashboard-Project/blob/main/Uber%20Trip%20Analytics%20Dashboard.png)
