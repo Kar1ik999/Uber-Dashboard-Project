@@ -1,4 +1,4 @@
-1. Project Title / Headline
+#1. Project Title / Headline
 
 Uber Trip Analytics Dashboard | Power BI Business Intelligence Project
 
@@ -6,13 +6,13 @@ Alternative:
 
 Uber Trip Analysis Dashboard – Power BI | Data Analytics & Business Intelligence
 
- 2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 This project is an interactive Power BI dashboard developed to analyze Uber trip data and transform raw transportation data into meaningful business insights. The dashboard enables stakeholders to monitor key performance indicators (KPIs), evaluate booking trends, analyze revenue, track ride completion status, identify top-performing locations, and understand customer as well as driver ratings through interactive visualizations.
 
 The objective of this project is to support data-driven decision making by providing a clear overview of Uber's operational performance and customer behavior.
 
-3. Tech Stack
+##3. Tech Stack
 
 Visualization Tool
 Microsoft Power BI Desktop
@@ -37,7 +37,7 @@ Custom Icons & Images
 Navigation Pages (Home & Overview)
 Bing Map Visual (Overview Page)
 
-4. Data Source
+##4. Data Source
 
 The dataset used in this project was obtained from a YouTube Power BI tutorial for learning and educational purposes.
 
@@ -54,7 +54,7 @@ Ride Completion Status
 
 The dataset was cleaned and transformed in Power Query before building the dashboard.
 
-5. Features / Highlights
+##5. Features / Highlights
 
 📊 Business KPIs
 Total Completed Bookings
